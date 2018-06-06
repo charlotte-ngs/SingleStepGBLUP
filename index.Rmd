@@ -1,14 +1,27 @@
 ---
 title: "Single Step Genomic BLUP"
-author: "Peter von Rohr"
+author: "Chris Stricker and Peter von Rohr"
 date: "5/28/2018"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Disclaimer
-This website is a repository for different types of material for the project called single step genomic BLUP.
+This website is a repository for the project called Single Step Genomic BLUP in Swiss Dairy Cattle. Any type of public documentation that will be produced in this project will be maded available here.
+
+
+## Presentations
+
+* Seventh Workshop of Swiss Animal Breeding Technology Platform (SABRE-TP) at ETH Zurich. June 06 2018. 
+    + [Summary](https://charlotte-ngs.github.io/SingleStepGBLUP/20180606-sabretp-workshop-ethz/20180527-sabretp-unterlagen-tc.pdf) 
+    + Slides ( [html](https://charlotte-ngs.github.io/SingleStepGBLUP/20180606-sabretp-workshop-ethz/20180606-sabretp-slides-cs-pvr.html) | [pdf](https://charlotte-ngs.github.io/SingleStepGBLUP/20180606-sabretp-workshop-ethz/20180606-sabretp-slides-cs-pvr.pdf) )
+
+
+
+```{r, results='asis'}
+cat(rmddochelper::get_latest_change(), "\n")
+```
 
