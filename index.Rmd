@@ -20,6 +20,12 @@ This website is a repository for the project called Single Step Genomic BLUP in 
     + Slides ( [html](https://charlotte-ngs.github.io/SingleStepGBLUP/20180606-sabretp-workshop-ethz/20180606-sabretp-slides-cs-pvr.html) | [pdf](https://charlotte-ngs.github.io/SingleStepGBLUP/20180606-sabretp-workshop-ethz/20180606-sabretp-slides-cs-pvr.pdf) )
 
 
+## Further developments
+
+* Chris and Rohan are working on the approach of Vandenplas et al 2017. 
+* Meeting planned towards the end of July / beginning of August
+
+
 
 ```{r, results='asis'}
 cat(rmddochelper::get_latest_change(), "\n")
